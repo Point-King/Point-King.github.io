@@ -4,7 +4,7 @@ body{
 	background-attachment: fixed;
 }
 header{
-	background-color: rgba(240,248,255,0.9);
+	background-color: rgba(240,248,256,0.9);
 	height: 240px;
 	width: 900px;
 	margin: 0 auto;
@@ -21,7 +21,7 @@ h3{
 	margin: 0 auto;
 }
 section{
-	background-color: rgba(240,248,255,0.9);
+	background-color: rgba(240,248,256,0.9);
 	width: 900px;
 	height: 600px;
 	margin: 0 auto;
@@ -35,4 +35,18 @@ section{
 	width: 800px;
 	height: 515px;
 	margin: 0 auto;
+}
+footer{
+	background-color: rgba(240,248,256,0.9);
+	height: 75px;
+	width: 900px;
+	margin: 0 auto;
+	float: inline-end;
+}
+p{
+	color: black;
+	font-size: 15;
+	font-family: monospace;
+	display: block;
+	text-align: center;
 }
