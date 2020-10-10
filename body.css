@@ -1,0 +1,18 @@
+body{
+	background-image: url('https://cdn.luogu.com.cn/upload/image_hosting/lv6iq6xz.png');
+	background-size: contain;
+}
+h2{
+	color: white;
+	font-size: 40;
+	font-family: monospace;
+}
+h3{
+	color:white;
+	font-size: 20;
+	font-family: monospace;
+}
+a{
+	display: block;
+	text-align: center;
+}
